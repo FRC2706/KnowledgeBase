@@ -1,4 +1,4 @@
-# Weclome to the Team 2706 Merge Robotics Knowledge Base
+# Welcome to the Team 2706 Merge Robotics Knowledge Base!
 
 This is intended to be a collection of notes, lists, tips, and things that we want to remember about all our various projects.
 
@@ -82,3 +82,5 @@ public static void main(String args){
 ## Misc
 
 By default, github will display the `readme.md` for each folder. By all means, make other files (`.md` or otherwise), or upload whatever you want!, but unlike the `readme.md`, people will have to click on them to see them.
+
+Version control: anyone who's used git before will know that everything is versions controlled, so we'll never lose anything, and can always look back at a previous version of something!
