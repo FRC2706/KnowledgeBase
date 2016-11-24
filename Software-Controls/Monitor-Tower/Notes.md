@@ -1,6 +1,5 @@
 1. Created ‘playVideo’ script:
-
-```bash
+ ```bash
 #!/bin/bash
 
 while :
