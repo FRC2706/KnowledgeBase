@@ -58,3 +58,27 @@ Bullets:
        
 >- First item
 - Second item
+
+Code:
+
+    For things like filenames, urls, or variable names, use `single back-quotes`, or indent 4 spaces.
+    
+For code snippits that you would like syntax highlighting on, surround them with tripple backquotes (on their own line), and tell it the language:
+
+    ```java
+    public static void main(String args){
+    float likeAButterfly;
+    String likeABee;
+    }
+    ```
+    
+```java
+public static void main(String args){
+    float likeAButterfly;
+    String likeABee;
+}
+```
+
+## Misc
+
+By default, github will display the `readme.md` for each folder. By all means, make other files (`.md` or otherwise), or upload whatever you want!, but unlike the `readme.md`, people will have to click on them to see them.
