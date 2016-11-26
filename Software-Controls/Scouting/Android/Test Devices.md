@@ -6,3 +6,5 @@ Physical devices we can test on:
 - Danny's phone (Android X.X)
 
 Virtual emulated devices to test on:
+
+- Nathan Laptop#19? (Android 4.4)
